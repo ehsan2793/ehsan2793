@@ -4,7 +4,7 @@
 ### I'm a Software Engineer/Full-Stack Developer.
  - ⚙️ I use React, JS, CSS, HTML, Node.js, Python everyday.
  - 📓 When I have free time, I teach or I learn new things **CS Algorithms are my favorites**
- - 💪 I love challenge and pushingmyself to the limit 
+ - 💪 I love challenge and pushing myself to the limit 
  - 😄 I am passionate about my work
  - 📫 Reach me asap: rahimiehsan1997@gmail.com
  
