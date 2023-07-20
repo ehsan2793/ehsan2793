@@ -7,7 +7,7 @@
  - 💪 I love challenge and pushing myself to the limit 
  - 😄 I am passionate about my work
  - 📫 Reach me asap: rahimiehsan1997@gmail.com
- _ 💼 Currently, I am working at Blast Athletics as a software developer.
+ - 💼 Currently, I am working at Blast Athletics as a software developer.
  
 
 #### Find me around the web 🌎:
